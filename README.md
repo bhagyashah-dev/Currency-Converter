@@ -22,9 +22,7 @@ A simple and responsive Currency Converter built with **HTML, CSS, and JavaScrip
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="./screenshot.png" alt="Currency Converter Screenshot" width="800">
-</p>
+![Currency Converter Screenshot](./screenshot.png)
 
 ## ⚙️ How It Works
 
@@ -64,11 +62,11 @@ This project helped me practice:
 
 This project was built as a practice exercise while learning **JavaScript Fetch API, Promises, and Async/Await**. The implementation was inspired by the following resources:
 
-* 🎥 **JavaScript Fetch API Project by Shradha Khapra**
-  https://www.youtube.com/watch?v=CyGodpqcid4&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&index=17
+* [🎥 **JavaScript Fetch API Project by Shradha Khapra**]
+  (https://www.youtube.com/watch?v=CyGodpqcid4&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&index=17)
 
-* 💻 **Inspired Currency Converter GitHub Repository**
-  https://github.com/shradha-khapra/JavaScriptSeries/tree/main/CurrencyConverter
+* [💻 **Inspired Currency Converter GitHub Repository**]
+  (https://github.com/shradha-khapra/JavaScriptSeries/tree/main/CurrencyConverter)
 
 While following these resources, I rebuilt the project independently and adapted it to work with updated APIs, dynamic country flags, and improved functionality to strengthen my understanding of JavaScript and API integration.
 
